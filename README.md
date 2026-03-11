@@ -4,7 +4,7 @@
 
 This project is an MSME product information website equipped with a recommendation system using the Item-Based Collaborative Filtering method with the Cosine Similarity algorithm. This recommendation system is designed to help users find relevant cake products based on their preferences and interaction history with products available on the platform.
 
-## Tech Stack
+## 🛠️ Tech Stack
 - React.js (Frontend)
 - Flask / Node.js (Backend)
 - MySQL (Database)
@@ -18,14 +18,14 @@ This project is an MSME product information website equipped with a recommendati
 git clone https://github.com/Tirtayudha-W/project-skripsi.git
 ```
 
-### 2. Jalankan Frontend
+### 2. Running Frontend
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
 
-### 3. Jalankan Backend
+### 3. Running Backend
 ```bash
 cd backend
 python app.py
