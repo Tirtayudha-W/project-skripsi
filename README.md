@@ -1,7 +1,8 @@
 ![alt text](https://github.com/Tirtayudha-W/project-skripsi/blob/main/src/assets/images/Home.png?rawtrue)
+# Hey Everyone 🙋‍♂️
 # Website Penjualan Kue dengan Item-Based Collaborative Filtering
 
-Project ini merupakan website informasi produk UMKM yang dilengkapi dengan sistem rekomendasi menggunakan metode Item-Based Collaborative Filtering dengan algoritma Cosine Similarity. Sistem rekomendasi ini dirancang untuk membantu pengguna menemukan produk kue yang relevan berdasarkan preferensi dan riwayat interaksi pengguna terhadap produk yang tersedia pada platform.
+This project is an MSME product information website equipped with a recommendation system using the Item-Based Collaborative Filtering method with the Cosine Similarity algorithm. This recommendation system is designed to help users find relevant cake products based on their preferences and interaction history with products available on the platform.
 
 ## Tech Stack
 - React.js (Frontend)
