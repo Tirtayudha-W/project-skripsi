@@ -22,7 +22,7 @@ git clone https://github.com/Tirtayudha-W/project-skripsi.git
 **npm install**
 
 4. Jalankan project
-```bash
+```md
 npm run dev
 
 5. Masuk ke folder frontend
