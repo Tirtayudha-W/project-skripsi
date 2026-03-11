@@ -12,15 +12,20 @@ Project ini merupakan website informasi produk UMKM yang dilengkapi dengan siste
 
 ## 🚀 Cara Menjalankan Project
 
-### 1. Clone repository
+### 1. Clone Repository
 ```bash
 git clone https://github.com/Tirtayudha-W/project-skripsi.git
+```
 
-Jalankan Frontend
-npm install
+### 2. Jalankan Frontend
+```bash
 cd frontend
+npm install
 npm run dev
+```
 
-Jalankan Backend
+### 3. Jalankan Backend
+```bash
 cd backend
 python app.py
+```
