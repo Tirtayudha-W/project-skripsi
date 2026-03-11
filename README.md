@@ -16,17 +16,13 @@ Project ini merupakan website informasi produk UMKM yang dilengkapi dengan siste
 ```bash
 git clone https://github.com/Tirtayudha-W/project-skripsi.git
 
-2. Masuk ke folder frontend
 cd frontend
 
-4. Install dependencies
 npm install
 
-5. Jalankan project
 npm run dev
 
-5. Masuk ke folder frontend
+```
+### Jalankan Backend
 cd backend
-
-7. Jalankan Backend
 python app.py
