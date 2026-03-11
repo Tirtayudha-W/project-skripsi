@@ -10,7 +10,7 @@ Project ini merupakan website informasi produk UMKM yang dilengkapi dengan siste
 - Python (Machine Learning)
 - Vite
 
-- ##🚀 Cara Menjalankan Project
+- ## 🚀 Cara Menjalankan Project
 
 ### 1. Clone repository
 
